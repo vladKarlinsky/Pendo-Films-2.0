@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MironKar/AndroidStudioProjects/PendoFilms/app/src/main/res/drawable-anydpi/search.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/MironKar/AndroidStudioProjects/PendoFilms/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2537037037037037" />
+        <entry key="..\:/Users/MironKar/AndroidStudioProjects/PendoFilms/app/src/main/res/drawable/border.xml" value="1.0178571428571428" />
+        <entry key="..\:/Users/MironKar/AndroidStudioProjects/PendoFilms/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/MironKar/AndroidStudioProjects/PendoFilms/app/src/main/res/drawable/image1.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/MironKar/AndroidStudioProjects/PendoFilms/app/src/main/res/layout/activity_main.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/MironKar/AndroidStudioProjects/PendoFilms/app/src/main/res/layout/activity_movie.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/MironKar/AndroidStudioProjects/PendoFilms/app/src/main/res/layout/activity_search.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/MironKar/AndroidStudioProjects/PendoFilms/app/src/main/res/layout/list_item.xml" value="0.23020833333333332" />
+        <entry key="..\:/Users/MironKar/AndroidStudioProjects/PendoFilms/app/src/main/res/layout/list_suggestion.xml" value="0.23020833333333332" />
+        <entry key="..\:/Users/MironKar/AndroidStudioProjects/PendoFilms/app/src/main/res/layout/pendo_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/MironKar/AndroidStudioProjects/PendoFilms/app/src/main/res/layout/toolbar_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/MironKar/AndroidStudioProjects/PendoFilms/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
