@@ -12,9 +12,9 @@ A simple films app.
 
 ## Screenshots
 
-More can be found here: https://imgur.com/gallery/3n89DK0
+More can be found here: https://imgur.com/gallery/aYtgf4U
 
-![alt text](https://i.imgur.com/XYMXzFM.png)
+![alt text](https://i.imgur.com/c7t5GtC.png)
 
 
 ## If I had the time, what would I change?
